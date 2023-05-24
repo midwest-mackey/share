@@ -17,6 +17,6 @@
 - [Information Visualization: Dashboards](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-Information%20Visualization%20-%20Dashboards.jpg)
 
 ## Udemy 
-<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" width="200" style="border:none; background-color:#0C0E12;" alt="Udemy Logo">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRooA__r1QCy8AZSmmYRvd9gZynRq-SO2YTigCovpCY5g&s" width="200" style="border:none; background-color:#0C0E12;" alt="Udemy Logo">
 
 - [OOUX - Fundamentals](https://github.com/midwest-mackey/share/blob/main/Certificates/Udemy/UC-44550e75-10f2-4b53-9738-bb0c69613a72-Mackey.jpg)
