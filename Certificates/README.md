@@ -20,3 +20,8 @@
 <img src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png" width="200" style="border:none; background-color:#0C0E12;" alt="Udemy Logo">
 
 - [OOUX - Fundamentals](https://github.com/midwest-mackey/share/blob/main/Certificates/Udemy/UC-44550e75-10f2-4b53-9738-bb0c69613a72-Mackey.jpg)
+
+## Skillshop
+<img src="https://templates.images.credential.net/16722171176440784346699372916351.png" width="200" style="border:none; background-color:#0C0E12;" alt="Google Analytics Certified Badge">
+
+- [Google Analytics](https://github.com/midwest-mackey/share/blob/main/Certificates/Skillshop/GoogleAnalyticsCertification-CalebMackey-Skillshop-cHJvZHVjdGlvbjg5MTI2.html)
