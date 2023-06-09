@@ -24,4 +24,4 @@
 ## Skillshop
 <img src="https://templates.images.credential.net/16722171176440784346699372916351.png" width="200" style="border:none; background-color:#0C0E12;" alt="Google Analytics Certified Badge">
 
-- [Google Analytics](https://github.com/midwest-mackey/share/blob/main/Certificates/Skillshop/GoogleAnalyticsCertification-CalebMackey-Skillshop-cHJvZHVjdGlvbjg5MTI2.html)
+- [Google Analytics](https://github.com/midwest-mackey/share/blob/main/Certificates/Skillshop/GoogleAnalyticsCertification-CalebMackey-Skillshop-cHJvZHVjdGlvbjg5MTI2.png)
