@@ -15,7 +15,7 @@
 - [Human Computer Interaction - HCI](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-human-computer-interaction.jpg)
 - [Physicality for Intuitive Products](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-physicality-for-intuitive-products.jpg)
 - [Information Visualization: Dashboards](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-information-visualization-dashboards.jpg)
-- [Perception and Memory in HCI and UX](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-171726-hci-perception-and-memory)
+- [Perception and Memory in HCI and UX](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-171726-hci-perception-and-memory.jpg)
 
 ## Udemy 
 <img src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png" width="200" style="border:none; background-color:#0C0E12;" alt="Udemy Logo">
