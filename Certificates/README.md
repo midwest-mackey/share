@@ -10,11 +10,12 @@
 ## IDF - Interaction Design Foundation
 <img src="https://assets.interaction-design.org/img/ixdf-brand/ixdf-logo-full-inverse.svg?id=676b649bd3f811d02e041ff0597403d2" width="200" style="border:none; background-color:#0C0E12;" alt="IDF Logo" />
 
-- [User Research - Methods and Best Practice](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-User%20Research-Methods%20and%20Best%20Practices.jpg)
-- [Gestalt Psychology and Web Design](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-Gestalt%20Psychology%20and%20Web%20Design.jpg)
-- [Human Computer Interaction](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-Human%20Computer%20Interaction.jpg)
-- [Physicality for Intuitive Products](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-Physicality%20for%20Intuitive%20Products.jpg)
-- [Information Visualization: Dashboards](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-Information%20Visualization%20-%20Dashboards.jpg)
+- [User Research - Methods and Best Practice](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-user-research-methods-and-best-practices.jpg)
+- [Gestalt Psychology and Web Design](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-gestalt-psychology-and-web-design.jpg)
+- [Human Computer Interaction - HCI](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-human-computer-interaction.jpg)
+- [Physicality for Intuitive Products](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-physicality-for-intuitive-products.jpg)
+- [Information Visualization: Dashboards](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-information-visualization-dashboards.jpg)
+- [Perception and Memory in HCI and UX](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-171726-hci-perception-and-memory)
 
 ## Udemy 
 <img src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png" width="200" style="border:none; background-color:#0C0E12;" alt="Udemy Logo">
