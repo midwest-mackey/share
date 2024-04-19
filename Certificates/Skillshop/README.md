@@ -4,5 +4,5 @@
 <img src="https://templates.images.credential.net/16722171176440784346699372916351.png" width="200" style="border:none; background-color:#0C0E12;" alt="Google Analytics Certified Badge">
 
 ### Skillshop Hosted Credentials
-- [Google Analytics 2023](https://skillshop.credential.net/c7f301b5-1a0f-4449-901c-67d6c28f4dc4)
-- [Google Analytics 2024](https://skillshop.credential.net/87619e75-b468-4e95-a24c-b2951c5090a2)
+- [Google Analytics 2023](https://github.com/midwest-mackey/share/blob/main/Certificates/Skillshop/7500279f_1713468698681.pdf)
+- [Google Analytics 2024](https://github.com/midwest-mackey/share/blob/main/Certificates/Skillshop/ept8nh7j_1713468440682.pdf)
