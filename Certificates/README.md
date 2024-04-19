@@ -5,7 +5,7 @@
 ## NN/g - Nielsen Norman Group 
 <img src="https://media.nngroup.com/nng-uxc-badge.png" width="200" style="border:none;" alt="UX Certification Badge from Nielsen Norman Group" />
 
-- [NNG UX](https://github.com/midwest-mackey/share/blob/main/Certificates/NNG/NNG-1008666-Mackey.pdf) [Verify Authenticity](https://www.nngroup.com/ux-certification/verify/)
+- [NNG UX](https://github.com/midwest-mackey/share/blob/main/Certificates/NNG/NNG-1008666-Mackey.pdf)  ([Verify Authenticity](https://www.nngroup.com/ux-certification/verify/))
 
 ## IDF - Interaction Design Foundation
 <img src="https://assets.interaction-design.org/img/ixdf-brand/ixdf-logo-full-inverse.svg?id=676b649bd3f811d02e041ff0597403d2" width="200" style="border:none; background-color:#0C0E12;" alt="IDF Logo" />
