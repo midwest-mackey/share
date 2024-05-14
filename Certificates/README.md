@@ -15,6 +15,7 @@
 - [Information Visualization: Dashboards](https://www.interaction-design.org/caleb-mackey/certificate/course/NlMkT3nWH)
 - [Perception and Memory in HCI and UX](https://www.interaction-design.org/members/cmackey/certificate/course/3a2ddea3-727e-4fd6-8474-6836e5de428b)
 - [AI Design](https://www.interaction-design.org/members/cmackey/certificate/course/4dd9ccba-843a-4965-a974-524fc2f078ed)
+- [Journey Mapping](https://www.interaction-design.org/members/cmackey/certificate/course/acef9c26-14a9-4e4a-8ce6-0219d6a610ac)
 
 ## Udemy 
 <img src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png" width="200" style="border:none; background-color:#0C0E12;" alt="Udemy Logo">

@@ -10,3 +10,4 @@
 - [Information Visualization: Dashboards](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-information-visualization-dashboards.jpg)
 - [Perception and Memory in HCI and UX](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-171726-hci-perception-and-memory.jpg)
 - [AI Design](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-171726-ai-for-designers.jpg)
+- [Journey Mapping](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-171726-journey-mapping.jpg)
