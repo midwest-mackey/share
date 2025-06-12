@@ -4,3 +4,4 @@
 
 ### LaunchDarkly Hosted Certificates
 - [Bronze Developer](https://verify.skilljar.com/c/fzirp2nttq3i)
+- [Silver Developer](https://verify.skilljar.com/c/f5hfrf8njri7)
