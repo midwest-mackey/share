@@ -1,6 +1,6 @@
 # IDF - Interaction Design Foundation Certifications
 
-<img src="https://assets.interaction-design.org/img/ixdf-brand/ixdf-logo-full-inverse.svg?id=676b649bd3f811d02e041ff0597403d2" width="200" height="65" style="border:none;" alt="IDF Logo" />
+<img src="https://public-images.interaction-design.org/ixdf-brand/ixdf-logo-full-expanded--white.png" width="197" height="65" alt="Interaction Design Foundation" style="border:none;"/>
 
 ### IDF Hosted Certificates
 - [User Research - Methods and Best Practice](https://github.com/midwest-mackey/share/blob/main/Certificates/IDF/IDF-19562-user-research-methods-and-best-practices.jpg)
