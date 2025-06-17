@@ -25,7 +25,7 @@
 ## Google Analytics
 <img src="https://templates.images.credential.net/16722171176440784346699372916351.png" width="200" style="border:none; background-color:#0C0E12;" alt="Google Analytics Certified Badge">
 
-- [Google Analytics 2025](https://skillshop.credential.net/c7f301b5-1a0f-4449-901c-67d6c28f4dc4#acc.uMBiqaEW)
+- [Google Analytics 2025](https://skillshop.credential.net/d87a5548-86f5-4d32-bb4f-a8e56a5011de#acc.BUNpXy2v)
 
 ## LaunchDarkly
 
