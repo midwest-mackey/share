@@ -6,3 +6,4 @@
 - [Google Analytics 2023](https://skillshop.credential.net/c7f301b5-1a0f-4449-901c-67d6c28f4dc4#acc.zsFp8wZE)
 - [Google Analytics 2024](https://skillshop.credential.net/87619e75-b468-4e95-a24c-b2951c5090a2#acc.rfql3pxK)
 - [Google Analytics 2025](https://skillshop.credential.net/d87a5548-86f5-4d32-bb4f-a8e56a5011de#acc.BUNpXy2v)
+- [Google Analytics 2026](https://skillshop.credential.net/ae5dea71-e167-4ee7-a683-cd3cf4c65b81#acc.HWkf71vZ)
